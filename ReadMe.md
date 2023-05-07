@@ -1,5 +1,4 @@
-# Grade Distribution Analyzer
-
+# Virginia Tech Pandemic Insights
 A project that analyzes the effect of COVID-19 on VT Student performance and high school admssions to Virginia Tech. This project was initially made for a Data Science class, but was later edited for public view.
 
 ## Usage
